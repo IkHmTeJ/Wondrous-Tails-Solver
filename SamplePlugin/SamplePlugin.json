@@ -1,12 +1,14 @@
 {
-  "Author": "your name here",
-  "Name": "Sample Plugin",
-  "Punchline": "A short one-liner that shows up in /xlplugins.",
-  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
-  "ApplicableVersion": "any",
-  "Tags": [
-    "sample",
-    "plugin",
-    "goats"
-  ]
+    "Author": "IkHmTeJ",
+    "Name": "Wondrous Tails Solver",
+    "Punchline": "Maximize your tails! /xlplugins.",
+    "Description": "Calculates the statistical probability of completing 1, 2, or 3 lines in your Wondrous Tails journal and offers shuffle recommendations. Use /wtcalc to open.",
+    "ApplicableVersion": "any",
+    "Tags": [
+        "sample",
+        "plugin",
+        "Wondrous Tails"
+
+
+    ]
 }
