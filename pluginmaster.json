@@ -8,6 +8,7 @@
     "DalamudApiLevel": 15,
     "Punchline": "Solves Wondrous Tails.",
     "Description": "Solves Wondrous Tails.",
+    "IconUrl":"https://raw.githubusercontent.com/IkHmTeJ/Wondrous-Tails-Solver/refs/heads/main/icon.png",
     "DownloadLinkInstall": "https://github.com/IkHmTeJ/Wondrous-Tails-Solver/releases/download/v1.0.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/IkHmTeJ/Wondrous-Tails-Solver/releases/download/v1.0.0.0/latest.zipp"
   }
