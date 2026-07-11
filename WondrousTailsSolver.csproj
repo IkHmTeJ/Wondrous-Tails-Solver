@@ -17,8 +17,8 @@
         <Version>1.0.0.0</Version>
 
 	<Name>Wondrous Tails Solver</Name>
-	<Author>IkHmteJ</Author>
-	<Description>CCalculates probabilities for Wondrous Tails lines.</Description>
+	<Author>IkHmTeJ</Author>
+	<Description>Calculates probabilities for Wondrous Tails lines.</Description>
 	<Punchline>Plan your Wondrous Tails board. use /wtcalc .</Punchline>
 
     </PropertyGroup>
