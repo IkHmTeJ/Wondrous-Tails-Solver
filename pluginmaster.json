@@ -1,20 +1,9 @@
 [
   {
     "Author": "IkHmTeJ",
-    "Name": "WondrousTailsCalculator",
-    "Punchline": "Solves Wondrous Tails.",
-    "Description": "Solves Wondrous Tails.",
-
-    "InternalName": "WondrousTailsCalculator",
-    "AssemblyVersion": "1.0.0.0",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 15,
-
-    "RepoUrl": "https://github.com/IkHmTeJ/Wondrous-Tails-Solver",
-    "IconUrl": "https://raw.githubusercontent.com/IkHmTeJ/Wondrous-Tails-Solver/main/icon.png",
-
-    "IsHide": false,
-    "IsTestingExclusive": false,
+  "Name": "Wondrous Tails Solver",
+  "InternalName": "WondrousTailsCalculator", 
+  "AssemblyVersion": "1.0.0.0",
 
     "DownloadLinkInstall": "https://github.com/IkHmTeJ/Wondrous-Tails-Solver/releases/download/v1.0.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/IkHmTeJ/Wondrous-Tails-Solver/releases/download/v1.0.0.0/latest.zip"
