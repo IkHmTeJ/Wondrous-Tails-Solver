@@ -1,17 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Dalamud.NET.Sdk/15.0.0">
+
     <PropertyGroup>
-        <Version>0.0.0.1</Version>
-        <PackageProjectUrl>https://github.com/goatcorp/SamplePlugin</PackageProjectUrl>
-        <PackageLicenseExpression>AGPL-3.0-or-later</PackageLicenseExpression>
-        <IsPackable>false</IsPackable>
-        <TargetFramework>net10.0</TargetFramework>
+        <TargetFramework>net10.0-windows</TargetFramework>
+
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <LangVersion>latest</LangVersion>
+
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+        <Platforms>x64</Platforms>
+        <PlatformTarget>x64</PlatformTarget>
+
+        <AssemblyName>WondrousTailsSolver</AssemblyName>
+        <RootNamespace>WondrousTailsSolver</RootNamespace>
+
+        <Version>1.0.0.0</Version>
+
+	<Name>Wondrous Tails Solver</Name>
+	<Author>IkHmteJ</Author>
+	<Description>CCalculates probabilities for Wondrous Tails lines.</Description>
+	<Punchline>Plan your Wondrous Tails board. use /wtcalc .</Punchline>
+
     </PropertyGroup>
 
-    <ItemGroup>
-        <Content Include="..\Data\goat.png">
-            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-            <Visible>false</Visible>
-        </Content>
-    </ItemGroup>
 </Project>
