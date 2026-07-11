@@ -11,8 +11,8 @@
         <Platforms>x64</Platforms>
         <PlatformTarget>x64</PlatformTarget>
 
-        <AssemblyName>WondrousTailsSolver</AssemblyName>
-        <RootNamespace>WondrousTailsSolver</RootNamespace>
+        <AssemblyName>WondrousTailsCalculator</AssemblyName>
+        <RootNamespace>WondrousTailsCalculator</RootNamespace>
 
         <Version>1.0.0.0</Version>
 
